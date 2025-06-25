@@ -1,4 +1,4 @@
-<h1>CyberChaw here!
+<h1>CyberChaw
 
 <h2> Cybersecurity Projects:</h2>
 Soon to come
